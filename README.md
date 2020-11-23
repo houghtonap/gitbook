@@ -1,2 +1,3 @@
-# gitbook
-[Table of Contents](#wiki/Table-of-Contents)
+# Professional Musings
+
+[Table of Contents](../../wiki/Table-of-Contents)
