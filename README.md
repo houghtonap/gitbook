@@ -1,5 +1,8 @@
-# Professional Musings
+---
+description: Professional articles written on a variety of software development topics.
+---
 
-Professional articles written on a variety of software development topics.
+# Table of Contents
 
-[Table of Contents](../../wiki/Table-of-Contents)
+* \*\*\*\*[**VSCode Guide for Using Top-level Await in Typescript**](vscode-guide-for-using-top-level-await-in-typescript.md)\*\*\*\*
+
